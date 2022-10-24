@@ -1,4 +1,4 @@
-package game
+package chess
 
 const (
 	illegalMove      = "illegal move"
